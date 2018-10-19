@@ -53,7 +53,7 @@ export PYTHONPATH="${PYTHONPATH}:$(pwd)"
 There are two options to obtain the dataset we used in our experiments:
 
    1. Download our preprocessed `.csv` files which include question annotation (clear/unclear), extracted clarification questions, and our training/testing splits.
-   2. Generate the data for a most recent Stack Exchange dump.
+   2. Generate the data for a most recent Stack Exchange dump (see [Archive.org](https://archive.org/details/stackexchange)).
 
 The first version is to be preferred if you want to reproduce our experimental results. The second version might be useful if you want to experiment with a Stack Exchange community that we haven't used.
 
