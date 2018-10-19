@@ -1,0 +1,14 @@
+name: stackexchange-cnn
+dependencies:
+  - python=3.5.6
+  - numpy=1.14.2
+  - gensim=3.4.0
+  - pandas=0.22.0
+  - openpyxl=2.5.6
+  - scikit-learn=0.19.1
+  - h5py=2.8.0
+  - matplotlib=2.2.3
+  - pip:
+    - keras==2.1.5
+    - tensorflow==1.7.0
+    - tensorflow-gpu==1.7.0

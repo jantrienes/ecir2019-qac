@@ -1,0 +1,21 @@
+name: stackexchange
+channels:
+  - conda-forge
+dependencies:
+  - python=3.5.5
+  - scikit-learn=0.19.1
+  - numpy=1.13.1
+  - pandas=0.23.1
+  - pymongo=3.4.0
+  - tqdm=4.23.4
+  - Flask=1.0.2
+  - nltk=3.3
+  - gunicorn=19.9.0
+  - matplotlib=2.2.2
+  - elasticsearch=2.3
+  - spacy=2.0.12
+  - pytest=3.8.0
+  - nb_conda=2.2.1
+  - pip:
+    - flask_cors==3.0.6
+    - joblib==0.12.5

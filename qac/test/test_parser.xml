@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+Every file in the SE dump has this format. Properties are stored as attribtues of a row. No child
+elements.
+-->
+<posts>
+  <row Id="1" PostTypeId="1" Body="Post 1" />
+  <row Id="2" PostTypeId="1" Body="Post 2" />
+</posts>
