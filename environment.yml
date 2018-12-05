@@ -16,6 +16,7 @@ dependencies:
   - spacy=2.0.12
   - pytest=3.8.0
   - nb_conda=2.2.1
+  - openpyxl=2.5.12
   - pip:
     - flask_cors==3.0.6
     - joblib==0.12.5
