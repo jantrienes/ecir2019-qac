@@ -2,7 +2,7 @@
 
 This repository provides the resources developed within the following paper:
 
-> J. Trienes and K. Balog. Identifying Unclear Questions in Community Question Answering Websites.
+> J. Trienes and K. Balog. Identifying Unclear Questions in Community Question Answering Websites. In ECIR'19, April 2019.
 
 These resources allow to reproduce the results presented in the paper.
 
@@ -57,9 +57,14 @@ There are two options to obtain the dataset we used in our experiments:
 
 The first version is to be preferred if you want to reproduce our experimental results. The second version might be useful if you want to experiment with a Stack Exchange community that we haven't used.
 
+The raw data we used has been [released under cc-by-sa 3.0](https://archive.org/details/stackexchange):
+
+> All user content contributed to the Stack Exchange network is cc-by-sa 3.0 licensed, intended to be shared and remixed.
+License: http://creativecommons.org/licenses/by-sa/3.0/
+
 ### Option 1: Download our data
 
-Download data from [HERE]() and extract into `data` folder. It should look as follows:
+Download data from [here](https://gustav1.ux.uis.no/downloads/ecir2019-qac/ecir2019-qac-data.zip) and extract into `data` folder. It should look as follows:
 
 ```sh
 > tree data
@@ -190,3 +195,6 @@ Also, pylint is configured:
 ```
 pylint qac/
 ```
+
+## Contact
+If you have any question, please contact Jan Trienes at jan.trienes@gmail.com.
