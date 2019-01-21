@@ -4,7 +4,7 @@ This repository provides the resources developed within the following paper:
 
 > J. Trienes and K. Balog. Identifying Unclear Questions in Community Question Answering Websites. In ECIR'19, April 2019.
 
-These resources allow to reproduce the results presented in the paper.
+These resources allow to reproduce the results presented in [the paper](https://arxiv.org/abs/1901.06168).
 
 ## Computational Environment
 
