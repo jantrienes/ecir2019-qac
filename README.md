@@ -4,8 +4,6 @@ This repository provides the resources developed within the following paper:
 
 > J. Trienes and K. Balog. **Identifying Unclear Questions in Community Question Answering Websites**. In proceedings of the 41st European conference on Advances in Information Retrieval (ECIR '19), pages 276--289, 2019. [DOI:10.1007/978-3-030-15712-8_18](http://doi.org/10.1007/978-3-030-15712-8_18)
 
-These resources allow to reproduce the results presented in [the paper](https://arxiv.org/abs/1901.06168).
-
 **You can get the authors' version of the paper from this link: [paper](https://arxiv.org/abs/1901.06168)**
 
 
