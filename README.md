@@ -2,9 +2,16 @@
 
 This repository provides the resources developed within the following paper:
 
-> J. Trienes and K. Balog. Identifying Unclear Questions in Community Question Answering Websites. In ECIR'19, April 2019.
+> J. Trienes and K. Balog. **Identifying Unclear Questions in Community Question Answering Websites**. In proceedings of the 41st European conference on Advances in Information Retrieval (ECIR '19), pages 276--289, 2019. [DOI:10.1007/978-3-030-15712-8_18](http://doi.org/10.1007/978-3-030-15712-8_18)
 
 These resources allow to reproduce the results presented in [the paper](https://arxiv.org/abs/1901.06168).
+
+**You can get the authors' version of the paper from this link: [paper](https://arxiv.org/abs/1901.06168)**
+
+
+### Abstract
+
+> *Thousands of complex natural language questions are submitted to community question answering websites on a daily basis, rendering them as one of the most important information sources these days. However, oftentimes submitted questions are unclear and cannot be answered without further clarification questions by expert community members. This study is the first to investigate the complex task of classifying a question as clear or unclear, i.e., if it requires further clarification. We construct a novel dataset and propose a classification approach that is based on the notion of similar questions. This approach is compared to state-of-the-art text classification baselines. Our main finding is that the similar questions approach is a viable alternative that can be used as a stepping stone towards the development of supportive user interfaces for question formulation.*
 
 ## Computational Environment
 
@@ -194,6 +201,23 @@ Also, pylint is configured:
 
 ```
 pylint qac/
+```
+
+## Citation
+
+If you use the resources presented in this repository, please cite:
+
+```
+@inproceedings{Trienes:2019:IUQ,
+ author =    {Trienes, Jan and Balog, Krisztian},
+ title =     {Identifying Unclear Questions in Community Question Answering Websites},
+ booktitle = {Proceedings of the 41st European conference on Advances in Information Retrieval},
+ series =    {ECIR '19},
+ year =      {2019},
+ pages =     {276--289},
+ doi =       {10.1007/978-3-030-15712-8_18},
+ publisher = {Springer}
+}
 ```
 
 ## Contact
